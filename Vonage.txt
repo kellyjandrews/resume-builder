@@ -1,0 +1,31 @@
+VONAGE
+Position: Senior Developer Advocate
+Dates: 08/2018 – 04/2022
+Location: Remote
+
+Key Responsibilities:
+- Architect modernization strategies for SDKs
+- Design CLI architecture
+- Create integration examples
+- Develop tutorials and workshops
+
+Major Projects/Milestones:
+- NodeJS SDKs modernization with TypeScript and monorepo structure
+- Vonage CLI foundation
+- Firebase integration examples
+- Integration tutorials with IBM Watson, GCloud, and AWS
+
+Technologies Used:
+- TypeScript
+- NodeJS
+- Firebase
+- APIs (IBM Watson, GCloud, AWS)
+
+Notable Achievements:
+- Team adoption of modernization strategy
+- Established technical patterns and best practices
+
+Relevant Skills Developed:
+- SDK architecture
+- CLI development
+- API integration

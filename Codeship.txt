@@ -1,0 +1,26 @@
+CODESHIP
+Position: Senior Developer Evangelist
+Dates: 02/2017 – 4/2018
+Location: Remote
+
+Key Responsibilities:
+- Build example code for blog posts
+- Develop and deliver CI/CD workshops
+- Provide thought leadership in DevOps
+
+Major Projects/Milestones:
+- Simplified CodeShip Pro CI/CD on-boarding
+- Delivered workshops to 17 meetup groups over 6 weeks
+
+Technologies Used:
+- CI/CD tools
+- DevOps technologies
+
+Notable Achievements:
+- Established thought leadership during DevOps emergence
+- Created on-boarding examples for CodeShip Pro
+
+Relevant Skills Developed:
+- DevOps expertise
+- Technical workshop delivery
+- CI/CD implementation

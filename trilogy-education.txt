@@ -1,0 +1,26 @@
+TRILOGY EDUCATION
+Position: Mentor
+Dates: 07/2019 – 9/2021
+Location: Remote
+
+Key Responsibilities:
+- Execute lesson plans and track student progress weekly
+- Mentor multiple students simultaneously
+- Provide technical guidance and support
+
+Major Projects/Milestones:
+- Mentored 12 students to successful graduation
+- Implemented 3-month course curriculum
+
+Technologies Used:
+- Ruby on Rails
+- PostgreSQL
+- Javascript
+
+Notable Achievements:
+- 100% graduation rate for mentored students
+
+Relevant Skills Developed:
+- Educational mentoring
+- Technical instruction
+- Progress tracking and reporting

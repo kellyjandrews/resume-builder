@@ -1,0 +1,22 @@
+CANTINA
+Position: Principal Technical Consultant
+Dates: 05/2018 – 8/2018
+Location: Remote
+
+Key Responsibilities:
+- Lead development team of 5 for client project
+- Build front end application with back end integrations
+
+Major Projects/Milestones:
+- Retail store demonstration management tool
+
+Technologies Used:
+- React
+- NodeJS
+- Websockets
+- APIs
+
+Relevant Skills Developed:
+- Team leadership
+- Technical consultation
+- Project management

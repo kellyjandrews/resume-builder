@@ -1,0 +1,23 @@
+FORCE5
+Position: Multimedia Designer and Developer
+Dates: 11/2007 – 11/2008
+Location: South Bend, IN
+
+Key Responsibilities:
+- Web, email and print design and development
+- Develop instructional courses using Adobe software
+
+Major Projects/Milestones:
+- Cabinet manufacturer trade show CD
+- Pharmaceutical Company learning tools and international website
+- Local hospital first on-line registration form.
+
+Technologies Used:
+- Adobe software
+- .NET
+- JavaScript
+
+Relevant Skills Developed:
+- Multimedia design
+- Instructional course development
+- Adobe software expertise

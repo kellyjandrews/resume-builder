@@ -1,0 +1,29 @@
+THE ODYSSEY ONLINE
+Position: Senior Developer
+Dates: 06/2016 – 1/2017
+Location: Indianapolis, IN
+
+Key Responsibilities:
+- Lead front-end development squad
+- Manage deployments and code merges
+
+Major Projects/Milestones:
+- User Profile overhaul
+- Various front-end features
+
+Technologies Used:
+- GitHub
+- Docker
+- React
+- Redis
+- Microsoft Azure
+- NodeJS
+
+Notable Achievements:
+- Team was asked to slow down deployments
+	- We were deploying features too quickly for sales to learn them
+
+Relevant Skills Developed:
+- Front-end development leadership
+- Deployment management
+- Team leadership

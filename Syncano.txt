@@ -1,0 +1,32 @@
+SYNCANO
+Position: Principal Developer Evangelist
+Dates: 06/2015 – 06/2016
+Location: Remote
+
+Key Responsibilities:
+- Build and lead developer relations team
+- Establish DevRel strategy and operations
+- Manage events and content creation
+- Represent company at technical conferences
+
+Major Projects/Milestones:
+- Built DevRel team from ground up
+- Created processes for event management and content creation
+- Designed and executed booth experiences
+- Built technical community relationships
+
+Technologies Used:
+- React
+- NodeJS
+- Docker
+
+Notable Achievements:
+- Established comprehensive DevRel program
+- Created scalable event management processes
+- Led booth design from concept to production
+
+Relevant Skills Developed:
+- DevRel team leadership
+- Event management
+- Technical community building
+- Content creation

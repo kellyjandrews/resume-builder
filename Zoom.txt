@@ -1,0 +1,27 @@
+ZOOM
+Position: Senior Developer Advocate
+Dates: 04/2022 – 11/2024
+Location: Remote
+
+Key Responsibilities:
+- Design and implement MVP program
+- Create and deliver technical workshops
+- Produce technical content for developers
+- Develop demo applications
+
+Major Projects/Milestones:
+- Comprehensive 4-part Video SDK workshop series
+- Created content reaching 6,000+ developers
+- Developed JavaScript demo application
+
+Technologies Used:
+- JavaScript
+- Video SDK
+- Zoom
+
+Notable Achievements:
+- Established workshop format as team standard
+
+Relevant Skills Developed:
+- Technical content creation
+- Workshop development and delivery

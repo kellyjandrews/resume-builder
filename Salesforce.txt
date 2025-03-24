@@ -1,0 +1,136 @@
+Salesforce 
+Overall Dates – 10/09 – 05/15
+
+Position: Sr. Manager, Developer Advocates
+Dates: 11/14 - 05/15
+Location: Indianapolis, IN
+
+Key Responsibilities:
+- Lead a team of developer advocates
+- Perform reviews and 1:1s regularly
+- Educate Salesforce developers on the Marketing Cloud
+
+Major Projects/Milestones:
+- High fidelity proof-of-concept for major client
+- Developer Zone at Salesforce Connections
+
+Technologies Used:
+- Salesforce
+- Marketing Cloud
+- Journey Builder
+- SOAP API
+- REST API
+
+Notable Achievements:
+- Organized first Developer Zone at Salesforce Connections
+- Co-author of Journey Builder book
+
+Relevant Skills Developed:
+- Team management
+- Leadership
+- Cross-functional management
+
+Position: Sr. Developer Advocate
+Dates: 09-12 - 11/14
+Location: Indianapolis, IN
+
+Key Responsibilities:
+- Build examples for developers
+- Write and deliver presentations on various new topics
+- Assist on-boarding partner developers
+- Improve Developer Experience
+
+Major Projects/Milestones:
+- Created FuelSDK for NodeJS
+- Developer Documentation Site
+- Built out developer accounts for first time
+
+Technologies Used:
+- Marketing Cloud
+- Salesforce
+- Journey Builder]
+- SOAP API
+- REST API
+- JWT
+
+Notable Achievements:
+- Multiple-city tours with Salesforce developer meetup groups
+- 5 year anniversary
+- Delivered first conference talk
+
+Relevant Skills Developed:
+- Developer Relations
+- Public Speaking
+- Client advocatcy
+
+Additional Context (Optional):
+Salesforce acquired ExactTarget
+
+
+ExactTarget (acquired by Salesforce) 
+Position: Technical Product Manager
+Dates: 04/11 – 08/12
+Location: Indianapolis, IN
+
+
+Key Responsibilities:
+- Develop technical content
+- Sales entablement
+- Customer journey mapping
+- Persona building
+- Conference Keynote demos
+
+Major Projects/Milestones:
+- Happy Birthday Email
+- Connections keynote
+- Sales demo account for 800+ users
+
+Technologies Used:
+- ExactTarget Marketing Cloud
+- Ruby on Rails
+- JavaScript
+
+Notable Achievements:
+- Built out sales demo environment for new hires
+- Planned and executed Connections keynote demo
+- created a long running integration with HR to send out a daily Happy Birthday email campaign
+
+Relevant Skills Developed:
+- Customer advocacy
+- Strategic Marketing
+- Technical Sales Entablement
+- Product Positioning
+
+
+ExactTarget (acquired by Salesforce) 
+Position: Solutions Designer
+Dates: 10/09 – 04/11
+Location: Indianapolis, IN
+
+
+Key Responsibilities:
+- Build sophisticated demos for high value clients
+- Develop creative ideas for sales engagements
+- Train new solution consultants
+
+Major Projects/Milestones:
+- In-app editor for content management
+- Several Large entertainment industry pitch collateral
+
+Technologies Used:
+- ExactTarget Marketing Cloud
+- JavaScript
+- AMPScript
+- Adobe
+- Final Cut
+
+Notable Achievements:
+- Trained multiple new hires
+- Continually raised the bar for creativity
+
+Relevant Skills Developed:
+- Sales engineering
+- Demo building
+- Remote work
+
+Additional Context (Optional):

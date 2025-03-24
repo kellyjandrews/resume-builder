@@ -1,0 +1,62 @@
+CONTENT SAMPLES
+Presentation
+Title: Serverless Concepts
+Date: 4/25/16
+Link/Location: https://speakerdeck.com/kellyjandrews/serverless-concepts
+Technologies/Topics: Serverless
+Brief Description: Overview of serverless computing.
+Impact/Reach: ~1000 developers
+
+Presentation
+Title: Tips for Building Lightweight Docker Images
+Date: 7/21/17
+Link/Location: https://speakerdeck.com/kellyjandrews/tips-for-building-lightweight-docker-images
+Technologies/Topics: Docker
+Brief Description: Building lightweight docker images. 
+Impact/Reach: ~250 developers
+
+Presentation 
+Title: Communications on Fire
+Date: 5/14/20
+Link/Location: https://speakerdeck.com/kellyjandrews/communications-on-fire
+Technologies/Topics: Docker
+Brief Description: Vonage and Firebase integration
+Impact/Reach: ~5000 developers
+
+Presentation 
+Title: Communications on Fire
+Date: 7/20/17
+Link/Location: https://usergroup.tv/videos/developdeploy-node-apps-with-docker/
+Technologies/Topics: Node Apps on Docker
+Brief Description: Building NodeJS apps with Docker
+Impact/Reach: ~5000 developers
+
+Random Twitter Quote 
+Date:4/11/20
+Link/Location: https://codingwithcalvin.net/docker-containers-and-my-adventures-in-versioning-and-tagging-part-ii/
+Technologies/Topics: Docker
+
+Tutorial 
+Date: 12/18/17
+Title: Using Docker Compose in Python Development
+Link/Location: https://www.webcodegeeks.com/devops/using-docker-compose-python-development/
+Technologies/Topics: Docker
+Impact/Reach: At one point I had several docker posts like this one on the first page of Google.
+
+
+Video 
+Date: 8/8/21
+Title: Demystifying CLI Development
+Link/Location: https://www.youtube.com/watch?v=5MotpuSPURw
+ 
+
+Video 
+Date: 9/19/14
+Title: so You Built Something, Now What
+Link/Location: https://www.youtube.com/watch?v=eJ_Haa2o9h8
+
+Workshop Series
+Date: 12/5/23
+Title: Developer Workshop – Zoom Video SDK
+Link/Location: https://www.youtube.com/watch?v=eJ_Haa2o9h8
+Reach: Several thousand views across 4 videos. 
